@@ -7,4 +7,4 @@ For bigger projects (over 1GB), check out <a href='https://gitlab.com/ktg5'>my G
 
 alt - [@ktg5a](https://github.com/ktg5a)
 
-[PROFILE PICTURE SOURCE](https://twitter.com/Maronrice_1/status/1692872188226142433)
+[PROFILE PICTURE SOURCE](https://x.com/quxfff/status/1800051091046064576)
