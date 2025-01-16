@@ -6,5 +6,3 @@ I code at times, but not all the time.
 For bigger projects (over 1GB), check out <a href='https://gitlab.com/ktg5'>my GitLab</a>.
 
 alt - [@ktg5a](https://github.com/ktg5a)
-
-[PROFILE PICTURE SOURCE](https://x.com/quxfff/status/1800051091046064576)
